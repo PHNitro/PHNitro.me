@@ -11,5 +11,4 @@ Curiosities about me:
 - I’m unmarried.
 - I am christian.
 - I love music.
-- 
 ---
