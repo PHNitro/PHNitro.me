@@ -12,3 +12,6 @@ Curiosities about me:
 - I am christian.
 - I love music.
 ---
+
+![PHNitro GitHub stats](https://github-readme-stats.vercel.app/api?username=phnitro&theme=dark&show_icons=true)
+
